@@ -64,9 +64,3 @@ Your-Project-Root/
 
 詳細的開發流程與常見問題，請參閱：
 👉 [Gemini Conductor 標準使用流程指南 (SOP)](./Gemini_Conductor_Workflow_Standard.md)
-
----
-
-## 🛡️ 安全與隔離
-
-在 Monorepo 架構下，建議建立 `.conductorignore` 檔案以實施物理與視野雙重隔離。詳細說明請見 [SOP Q13](./Gemini_Conductor_Workflow_Standard.md#q13)。
